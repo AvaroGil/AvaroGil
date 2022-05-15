@@ -2,4 +2,4 @@
 - 👀 I’m interested in HTML/CSS/JS/PHP/MySQL
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on WEB Designer
-- 📫 How to reach me E-Mail
+- 📫 How to reach me -> E-Mail
